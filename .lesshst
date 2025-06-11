@@ -1,0 +1,19 @@
+.less-history-file:
+.search
+"ifno
+"info
+"file size 
+"size
+"filesize
+"file size 
+"size
+"W
+"not match
+"negative
+"not
+"not match
+"pattern
+"exec
+"/ Create reader and writer threads
+"r[i], NULL, reader, &reader_ids[i]);
+"w[i], NULL, writer, &writer_ids[i]);

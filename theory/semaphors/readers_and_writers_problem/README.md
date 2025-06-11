@@ -1,5 +1,5 @@
 
-eaders-Writers Problem — Three Implementations
+Readers-Writers Problem — Three Implementations
 
 This project contains **three different solutions** to the classic **Readers-Writers synchronization problem**, each tailored for different use cases. All implementations use the **Lightswitch pattern** (implicitly applied).
 

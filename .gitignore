@@ -1,0 +1,85 @@
+bject files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.dwo
+*.dwp
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Temporary files created by editors
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Vim swap and backup files
+*.swp
+*.swo
+*.vimrc
+*.viminfo
+*.backup
+*.undo
+*.session
+
+# Vim temporary files/directories
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# VS Code settings
+.vscode/
+
+# CTags files
+tags
+
+# Coverage files
+*.gcno
+*.gcda
+*.gcov
+
+# Makefile generated files
+Makefile~
+
+# CMake files and folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.bashrc
+.bash_profile
+*.local
+# Other IDE files
+*.idea/
+*.project
+*.cproject
+

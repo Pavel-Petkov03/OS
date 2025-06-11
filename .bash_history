@@ -10738,3 +10738,1324 @@ cd readers_and_writes_problem_writers_starvation/
 ls
 #1749548524
 ./main 
+#1749479153
+cd ../../../../s0600315
+#1749479154
+cd ../../../../s0600316
+#1749479155
+cd ../../../../s0600317
+#1749479158
+cd ../../../../s0600319
+#1749479164
+cd ../../../
+#1749479167
+find
+#1749479254
+grep "s0600401"/etc/passwd 
+#1749479257
+grep "s0600401" /etc/passwd 
+#1749479154
+cd ../../../../s0600316
+#1749479155
+cd ../../../../s0600317
+#1749479158
+cd ../../../../s0600319
+#1749479164
+cd ../../../
+#1749479167
+find
+#1749479254
+grep "s0600401"/etc/passwd 
+#1749479257
+grep "s0600401" /etc/passwd 
+#1749483410
+./list-logged.sh 
+#1749483449
+mkdir readers_and_writers_problem
+#1749483453
+cd readers_and_writes_problem_writers_starvation/
+#1749483473
+mv -r readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749483477
+mv  readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749483483
+cd readers_and_writers_problem/
+#1749483477
+mv  readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749548485
+./list-logged.sh 
+#1749548499
+cd sw
+#1749548508
+cd readers_and_writers_problem/
+#1749548513
+cd readers_and_writes_problem_writers_starvation/
+#1749548515
+ls
+#1749613725
+clear
+#1749613728
+cd theory/
+#1749613731
+cd semaphors/
+#1749613749
+rm ~/.local/share/nvim/swap//%home%students%s0600302%theory%semaphors%dining_philosophers_problem%main.c.swp
+#1749613887
+cat ../producer_consumer_problem/main.c 
+#1749613908
+make 
+#1749613911
+./main 
+#1749613940
+vim README.md
+#1749613981
+cat README.md 
+#1749613991
+cd ../ 
+#1749614044
+git commit -m "adding philosophers exercise and code refactoring"
+#1749614135
+cd dining_philosophers_problem/
+#1749614137
+vim main.c
+#1749614188
+git add . 
+#1749614189
+git status \
+#1749614190
+git status 
+#1749614204
+git commit -m "refoctoring"
+#1749614207
+git push origin master 
+#1749614217
+ls 
+#1749614220
+./list
+#1749614225
+../../../list-logged.sh 
+#1749614227
+exit 
+#1749205454
+vim notebook-exercises/102/main.c
+#1749217996
+man cat 
+#1749218002
+man 2 cat 
+#1749218004
+man cat
+#1749205281
+exit 
+#1749205203
+bind -f /etc/inputrc 
+#1749205210
+2;76;44M2;76;44m2;76;44M2;76;44m2;76;44M34;76;44M2;76;44m2;76;44M2;76;44m2;76;44M2;76;44m2;77;44M2;77;44m2;77;44M2;77;44m
+#1749205216
+restart
+#1749205218
+exit
+#1749205244
+tmux kill-server 
+#1749205256
+tmux -f /dev/null 
+#1749205277
+clkear
+#1749205281
+exit 
+#1749205306
+lds 
+#1749205331
+vim notebook-exercises/120/main.c
+#1749205382
+./todo_finder.sh notebook-exercises/
+#1749205420
+vim notebook-exercises/98/main.c
+#1749205448
+vim 
+#1749205454
+vim notebook-exercises/102/main.c
+#1749217996
+man cat 
+#1749218002
+man 2 cat 
+#1749218004
+man cat
+#1749289299
+mkdir theory
+#1749289307
+mkdir semaphors
+#1749289320
+mkdir c_programs
+#1749289321
+cd c_programs/
+#1749289340
+touch README.md
+#1749289343
+vim README.md \
+#1749289391
+mkdir 155
+#1749289392
+cd 155/
+#1749289594
+cp ../../../Makefile . 
+#1749289638
+mv 155 156
+#1749289647
+mkdir 157
+#1749289649
+cd 157
+#1749289655
+cp ../156/Makefile . 
+#1749289830
+cd 157/
+#1749289919
+mkdir 158
+#1749289921
+cd 158
+#1749289928
+cp ../157/Makefile . 
+#1749290184
+mkdir 159
+#1749290186
+cd 159/
+#1749290276
+cp ../158/Makefile . 
+#1749289830
+cd 157/
+#1749289919
+mkdir 158
+#1749289921
+cd 158
+#1749289928
+cp ../157/Makefile . 
+#1749290184
+mkdir 159
+#1749290186
+cd 159/
+#1749290276
+cp ../158/Makefile . 
+#1749324327
+vim list-logged.sh 
+#1749324381
+apropos make 
+#1749324389
+man 2 make 
+#1749324392
+man make 
+#1749324477
+cd ~
+#1749324486
+l;s 
+#1749324496
+cd 100/
+#1749324510
+cd 105/
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324510
+cd 105/
+#1749324576
+ps aux 
+#1749324652
+exit 
+#1749330026
+cd 105
+#1749330112
+./main /etc/passwd 
+#1749330121
+gcb ./main
+#1749330129
+gdb ./main
+#1749330200
+gdb ./main /etc/passwd
+#1749330248
+gdb
+#1749330270
+gdb ./main 
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749324576
+ps aux 
+#1749324652
+exit 
+#1749330026
+cd 105
+#1749330112
+./main /etc/passwd 
+#1749330121
+gcb ./main
+#1749330129
+gdb ./main
+#1749330200
+gdb ./main /etc/passwd
+#1749330248
+gdb
+#1749330270
+gdb ./main 
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749367319
+cd 159/
+#1749367321
+./ma
+#1749367383
+./main \
+#1749369319
+cd handfull_functions
+#1749369323
+mkdir handfull_functions
+#1749369325
+cd handfull_functions/
+#1749372550
+rm -r handfull_functions/
+#1749372557
+cd c_programs/
+#1749372563
+vim 158
+#1749372572
+cd 158/
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749367319
+cd 159/
+#1749367321
+./ma
+#1749367383
+./main \
+#1749369319
+cd handfull_functions
+#1749369323
+mkdir handfull_functions
+#1749369325
+cd handfull_functions/
+#1749372550
+rm -r handfull_functions/
+#1749372557
+cd c_programs/
+#1749372563
+vim 158
+#1749372572
+cd 158/
+#1749401035
+grep "Петя Петрова" /etc/passwd 
+#1749401042
+cd ../s0600311
+#1749401051
+cd Cfiles/
+#1749401090
+cd 2016-SE-04
+#1749401099
+cd 2023-CE-02
+#1749401105
+cd var/
+#1749401109
+cd log/
+#1749401112
+cd my_logs/
+#1749401115
+cd ../../../
+#1749401131
+cd 2016-SE-06
+#1749401150
+cd files 
+#1749401154
+cat files 
+#1749401169
+cd 2017-IN-02
+#1749324477
+cd ~
+#1749324486
+l;s 
+#1749324496
+cd 100/
+#1749324510
+cd 105/
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324510
+cd 105/
+#1749324576
+ps aux 
+#1749324652
+exit 
+#1749330026
+cd 105
+#1749330112
+./main /etc/passwd 
+#1749330121
+gcb ./main
+#1749330129
+gdb ./main
+#1749330200
+gdb ./main /etc/passwd
+#1749330248
+gdb
+#1749330270
+gdb ./main 
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749324576
+ps aux 
+#1749324652
+exit 
+#1749330026
+cd 105
+#1749330112
+./main /etc/passwd 
+#1749330121
+gcb ./main
+#1749330129
+gdb ./main
+#1749330200
+gdb ./main /etc/passwd
+#1749330248
+gdb
+#1749330270
+gdb ./main 
+#1749324576
+ps aux 
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749367319
+cd 159/
+#1749367321
+./ma
+#1749367383
+./main \
+#1749369319
+cd handfull_functions
+#1749369323
+mkdir handfull_functions
+#1749369325
+cd handfull_functions/
+#1749372550
+rm -r handfull_functions/
+#1749372557
+cd c_programs/
+#1749372563
+vim 158
+#1749372572
+cd 158/
+#1749324591
+gdb
+#1749324652
+exit 
+#1749324660
+cd 105/
+#1749326237
+man dup2
+#1749367319
+cd 159/
+#1749367321
+./ma
+#1749367383
+./main \
+#1749369319
+cd handfull_functions
+#1749369323
+mkdir handfull_functions
+#1749369325
+cd handfull_functions/
+#1749372550
+rm -r handfull_functions/
+#1749372557
+cd c_programs/
+#1749372563
+vim 158
+#1749372572
+cd 158/
+#1749401035
+grep "Петя Петрова" /etc/passwd 
+#1749401042
+cd ../s0600311
+#1749401051
+cd Cfiles/
+#1749401090
+cd 2016-SE-04
+#1749401099
+cd 2023-CE-02
+#1749401105
+cd var/
+#1749401109
+cd log/
+#1749401112
+cd my_logs/
+#1749401115
+cd ../../../
+#1749401131
+cd 2016-SE-06
+#1749401150
+cd files 
+#1749401154
+cat files 
+#1749401169
+cd 2017-IN-02
+#1749413010
+mkdir custom_shell
+#1749413012
+cd custom_shell/
+#1749422205
+cd 98/
+#1749424226
+cp ../97/Makefile . 
+#1749424553
+maek 
+#1749424839
+./main data.bin comparator.bin 
+#1749424888
+rm data.bin 
+#1749424890
+rm data-orig.bin 
+#1749424891
+rm comparator.bin 
+#1749424903
+../../finder.sh  2022-SE-01
+#1749424920
+cp /home/students/s0600401/scripts/test_data/sample-data/03-c/2022-SE-01/comparator.bin . 
+#1749424944
+cp /home/students/s0600401/scripts/test_data/sample-data/03-c/2022-SE-01/data-orig.bin . 
+#1749424961
+cp /srv/fmi-os/data/03-c/2022-SE-01/data-orig.bin . 
+#1749424964
+cat data-orig.bin 
+#1749424970
+cat comparator.bin 
+#1749427005
+xxd data-orig.bin 
+#1749427018
+xxd copa
+#1749427020
+xxd comparator.bin 
+#1749427247
+./main data-orig.bin comparator.bin 
+#1749427290
+../../finder.sh  2022-SE-01 
+#1749427299
+xxd /srv/fmi-os/data/03-c/2022-SE-01/comparator.bin
+#1749427311
+xxd /srv/sample-data/03-c/2022-SE-01/data-orig.bin
+#1749427362
+cd 99/
+#1749427384
+./todo_finder.sh notebook-exercises/
+#1749427417
+cd 103/
+#1749427495
+cd 102/
+#1749427642
+cd 104/
+#1749428401
+cd 106/
+#1749428514
+./main respect english.dic english.idx
+#1749428540
+./main friend english.dic 
+#1749428554
+./main cunt english.dic 
+#1749428574
+./main a english.dic 
+#1749428579
+./main b english.dic 
+#1749428586
+./main c english.dic 
+#1749428658
+./main tail  english.dic 
+#1749428666
+./main grandma english.dic 
+#1749428674
+./main respect english.dic 
+#1749428680
+./main wealth english.dic 
+#1749428686
+./main bitch english.dic 
+#1749428691
+./main game english.dic 
+#1749367383
+./main \
+#1749369319
+cd handfull_functions
+#1749369323
+mkdir handfull_functions
+#1749369325
+cd handfull_functions/
+#1749372550
+rm -r handfull_functions/
+#1749372557
+cd c_programs/
+#1749372563
+vim 158
+#1749372572
+cd 158/
+#1749401035
+grep "Петя Петрова" /etc/passwd 
+#1749401042
+cd ../s0600311
+#1749401051
+cd Cfiles/
+#1749401090
+cd 2016-SE-04
+#1749401099
+cd 2023-CE-02
+#1749401105
+cd var/
+#1749401109
+cd log/
+#1749401112
+cd my_logs/
+#1749401131
+cd 2016-SE-06
+#1749401150
+cd files 
+#1749401154
+cat files 
+#1749401169
+cd 2017-IN-02
+#1749413010
+mkdir custom_shell
+#1749413012
+cd custom_shell/
+#1749422205
+cd 98/
+#1749424226
+cp ../97/Makefile . 
+#1749424553
+maek 
+#1749424839
+./main data.bin comparator.bin 
+#1749424888
+rm data.bin 
+#1749424890
+rm data-orig.bin 
+#1749424891
+rm comparator.bin 
+#1749424903
+../../finder.sh  2022-SE-01
+#1749424920
+cp /home/students/s0600401/scripts/test_data/sample-data/03-c/2022-SE-01/comparator.bin . 
+#1749424944
+cp /home/students/s0600401/scripts/test_data/sample-data/03-c/2022-SE-01/data-orig.bin . 
+#1749424961
+cp /srv/fmi-os/data/03-c/2022-SE-01/data-orig.bin . 
+#1749424964
+cat data-orig.bin 
+#1749424970
+cat comparator.bin 
+#1749427005
+xxd data-orig.bin 
+#1749427018
+xxd copa
+#1749427020
+xxd comparator.bin 
+#1749427247
+./main data-orig.bin comparator.bin 
+#1749427290
+../../finder.sh  2022-SE-01 
+#1749427299
+xxd /srv/fmi-os/data/03-c/2022-SE-01/comparator.bin
+#1749427311
+xxd /srv/sample-data/03-c/2022-SE-01/data-orig.bin
+#1749427362
+cd 99/
+#1749427384
+./todo_finder.sh notebook-exercises/
+#1749427417
+cd 103/
+#1749427495
+cd 102/
+#1749427642
+cd 104/
+#1749428401
+cd 106/
+#1749428514
+./main respect english.dic english.idx
+#1749428540
+./main friend english.dic 
+#1749428554
+./main cunt english.dic 
+#1749428574
+./main a english.dic 
+#1749428579
+./main b english.dic 
+#1749428586
+./main c english.dic 
+#1749428658
+./main tail  english.dic 
+#1749428666
+./main grandma english.dic 
+#1749428674
+./main respect english.dic 
+#1749428680
+./main wealth english.dic 
+#1749428686
+./main bitch english.dic 
+#1749428691
+./main game english.dic 
+#1749460675
+lds 
+#1749460689
+mkdir readers_writes_problem
+#1749460691
+cd readers_writes_problem/
+#1749460864
+mkdir first_solution
+#1749460865
+cd fio
+#1749461608
+cp ../../../../Makefile . 
+#1749462030
+maker 
+#1749462226
+cp readers_writes_problem/ readers_and_writes_problem_writers_starvation
+#1749462232
+cp -r readers_writes_problem/ readers_and_writes_problem_writers_starvation
+#1749462239
+rm -r readers_writes_problem/
+#1749462256
+cd first_solution/
+#1749462275
+find first_solution/ -exec cp {} .
+#1749462281
+find first_solution/ -exec cp {} . ";"
+#1749462300
+find first_solution/
+#1749462323
+find first_solution/ -exec ls 
+#1749462326
+find first_solution/ -exec {}
+#1749462331
+find first_solution/ -exec {} cp {} .
+#1749462339
+man find
+#1749462364
+find first_solution/ -exec
+#1749462367
+find first_solution/ -exec {} 
+#1749462371
+find first_solution/ -exec {} echo {}
+#1749462374
+find first_solution/ -exec {} echo {} ";"
+#1749462416
+rm 'em_destroy(&mutex);'
+#1749462419
+rm first_solution/
+#1749462422
+rm -r first_solution/
+#1749472806
+dc ../ 
+#1749472823
+mkdir readers_and_writers_problem
+#1749472833
+cp readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749472838
+cp -r readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749472849
+find readers_and_writes_problem_writers_starvation/
+#1749472853
+rm readers_and_writers_problem/
+#1749472855
+rm -r readers_and_writers_problem/
+#1749479116
+grep "Ева" /etc/passwd 
+#1749479127
+cd ../../../../s0600300
+#1749479143
+cd ../../../../s0600304
+#1749479146
+cd ../../../../s0600299
+#1749479150
+cd ../../../../s0600314
+#1749479153
+cd ../../../../s0600315
+#1749479154
+cd ../../../../s0600316
+#1749479155
+cd ../../../../s0600317
+#1749479158
+cd ../../../../s0600319
+#1749479164
+cd ../../../
+#1749479167
+find
+#1749479254
+grep "s0600401"/etc/passwd 
+#1749479257
+grep "s0600401" /etc/passwd 
+#1749479154
+cd ../../../../s0600316
+#1749479155
+cd ../../../../s0600317
+#1749479158
+cd ../../../../s0600319
+#1749479164
+cd ../../../
+#1749479167
+find
+#1749479254
+grep "s0600401"/etc/passwd 
+#1749479257
+grep "s0600401" /etc/passwd 
+#1749483449
+mkdir readers_and_writers_problem
+#1749483473
+mv -r readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749483477
+mv  readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749483477
+mv  readers_and_writes_problem_writers_starvation/ readers_and_writers_problem/
+#1749548499
+cd sw
+#1749586718
+../../../../list-logged.sh 
+#1749587074
+mkdir readers_and_writers_problem_no_starvation_turnstile
+#1749587097
+cp ../readers_and_writes_problem_writers_starvation/Makefile  . 
+#1749587891
+im main.c
+#1749587984
+cat ../readers_and_writes_problem_writers_starvation/main.c
+#1749588715
+vim main.c 
+#1749589191
+int main(void){
+#1749589191
+    int readers_ids[]= {1,2,3,4,5};
+#1749589191
+    int writers_ids[] = {1,2,3};
+#1749589191
+    pthread_t treades[5];
+#1749589191
+    pthread_t twrites[5];
+#1749589191
+    sem_init(&mutex, 0, 1);
+#1749589191
+    sem_init(&write_lock, 0, 1);
+#1749589191
+        for(int i = 0; i < 5; i++)
+#1749589191
+        pthread_create(&treades[i], NULL, reader, &readers_ids[i]);
+#1749589191
+    for (int i = 0; i < 2; i++)
+#1749589191
+        pthread_create(&twrites[i], NULL, writer, &writers_ids[i]);
+#1749589191
+    for (int i = 0; i < 5; i++)
+#1749589191
+        pthread_join(twrites[i], NULL);
+#1749589191
+    for (int i = 0; i < 3; i++)
+#1749589191
+        pthread_join(treades[i], NULL);
+#1749589191
+    sem_destroy(&mutex);
+#1749589191
+    sem_destroy(&write_lock);
+#1749589238
+}
+#1749589240
+clear
+#1749589640
+cd readers_and_writes_problem_writers_starvation/
+#1749589665
+make vim main.c
+#1749589692
+cd ../
+#1749589701
+cd readers_and_writers_problem_no_starvation_turnstile/
+#1749589782
+mkdir readers_and_writers_readers_starvation
+#1749589978
+make \
+#1749589998
+cd readers_and_writers_readers_starvation/
+#1749590008
+cp ../readers_and_writers_problem_no_starvation_turnstile/Makefile .
+#1749597276
+git remote set-url origin https://github.com/Pavel-Petkov03/OS.git
+#1749597281
+git push -u origin main
+#1749597291
+git pll origin master 
+#1749597455
+ unable to access 'https://github.com/Pavel-Petkov03/OS.git/': The requested URL returned error: 403
+#1749597935
+git branch 
+#1749597944
+git push -u origin master
+#1749597947
+git pull 
+#1749597991
+git pull origin main
+#1749598231
+git add .
+#1749598258
+git add Makefile 
+#1749598396
+cd notebook-exercises/
+#1749598399
+cd 101/
+#1749598403
+rm english.dic 
+#1749598406
+cd ../../
+#1749598423
+git add .bash_history 
+#1749598453
+git commit -m "adding all work from astero"
+#1749598702
+for file in $(git ls-files --others --exclude-standard); do   git add "$file";   git commit -m "Created $file"; done
+#1749598743
+git pull
+#1749598893
+for file in $(git ls-files --others --modified --exclude-standard); do   git add "$file";   git commit -m "Add $file"; done
+#1749598995
+git push --force origin master
+#1749599335
+vim .gitignore
+#1749599427
+vim .gitignore 
+#1749599498
+git add .gitignore 
+#1749599560
+git rm -r --cached .
+#1749599572
+git rm -f -r --cached .
+#1749599649
+for file in *; do   if [ -f "$file" ]; then     # only files, skip directories
+    git add "$file";     git commit -m "Add or update file: $file";   fi; done
+#1749599751
+git reset --soft HEAD~1
+#1749599754
+git reset
+#1749599760
+for file in $(git ls-files --others --modified --exclude-standard); do   git add "$file";   git commit -m "Add $file"; done
+#1749599854
+git pull --no-rebase
+#1749599870
+git pull --no-rebase origin master
+#1749599924
+sc
+#1749599992
+git add todo_finder.sh 
+#1749600059
+git gc --prune=now --aggressive
+#1749600134
+rm .git/
+#1749600138
+rm -r .git/
+#1749600286
+for file in *; do   if [ -f "$file" ]; then     # only files, skip directories
+    git add "$file";     git commit -m "Add or update file: $file";   fi; done
+#1749600309
+for file in *; do   if [ -f "$file" ]; then     # only files, skip directories
+    git add "$file";     git commit -m "Add or update file: $file";   fi; done
+#1749600325
+for file in *; do   if [ -f "$file" ]; then     # only files, skip directories
+    git add "$file";     git commit -m "Add or update file: $file";   fi; done
+#1749600333
+git stauts 
+#1749600353
+for file in *; do   if [ -f "$file" ]; then     # only files, skip directories
+    git add "$file";     git commit -m "Add or update file: $file";   fi; done
+#1749600388
+find . -type f -print0 | while IFS= read -r -d '' file; do   git add "$file";   git commit -m "Add or update file: $file"; done
+#1749600436
+git push -f origin master
+#1749600886
+git blame
+#1749600931
+git blame https://github.com/Pavel-Petkov03/OS
+#1749600938
+git blame https://github.com/Pavel-Petkov03/OS.git
+#1749600990
+git log 9acf5def7f60d16f94bd7ce95f2453ef70f08d65
+#1749601053
+git config --global user.email "pavel.petkov2003@gmail.com"
+#1749601062
+git config --global user.name "Pavel Petkov"
+#1749601098
+git log
+#1749601118
+git log --author="Pavel Petkov"
+#1749601142
+git log --author="Pavel-Petkov03"
+#1749601217
+git show 9acf5def7f60d16f94bd7ce95f2453ef70f08d65
+#1749601319
+git show 6817294351efdba0d1d863c2fb041558221a0f4b
+#1749601447
+git filter-branch --env-filter '
+OLD_EMAIL="s0600302@astero.openfmi.net"
+CORRECT_NAME="Pavel Petkov"
+CORRECT_EMAIL="elias5247698@abv.bg"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#1749601476
+de
+#1749601478
+dq
+#1749601480
+dc
+#1749601500
+df -h
+#1749601551
+rm -rf .git/
+#1749601554
+du
+#1749601566
+git init 
+#1749601604
+git remote add origin https://github.com/Pavel-Petkov03/OS.git
+#1749601620
+git filter-branch --env-filter '
+OLD_EMAIL="s0600302@astero.openfmi.net"
+CORRECT_NAME="Pavel Petkov"
+CORRECT_EMAIL="elias5247698@abv.bg"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#1749601646
+git pull origin master
+#1749601661
+git filter-branch --env-filter '
+OLD_EMAIL="s0600302@astero.openfmi.net"
+CORRECT_NAME="Pavel Petkov"
+CORRECT_EMAIL="elias5247698@abv.bg"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#1749601726
+git pull origin master 
+#1749601742
+git pull -f origin master
+#1749601805
+git log 
+#1749601811
+git fetch --all
+#1749601812
+git reset --hard origin/main
+#1749601821
+git reset --hard origin/master
+#1749601848
+git filter-branch --env-filter '
+OLD_EMAIL="s0600302@astero.openfmi.net"
+CORRECT_NAME="Pavel Petkov"
+CORRECT_EMAIL="elias5247698@abv.bg"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+#1749601882
+git push --force --tags or
+#1749601900
+git push --force --tags origin master
+#1749602104
+who
+#1749602116
+./list-logged.sh 
+#1749602314
+git add .gitconfig 
+#1749602343
+git config --global user.email
+#1749602350
+pavel.petkov2003@gmail.com
+#1749602355
+git config --list
+#1749602366
+git push origin mqaster 
+#1749602369
+git push origin maste 
+#1749602405
+git commit -m "adding gitignore"
+#1749602454
+ds
+#1749602457
+df 0-f 
+#1749602458
+df 0f 
+#1749602462
+df
+#1749602464
+df -f 
+#1749602478
+dui 
+#1749602479
+du 
+#1749602850
+cd theory/
+#1749602852
+cd semaphors/
+#1749602855
+cd readers_and_writers_problem/
+#1749602864
+cd README.md 
+#1749602868
+vim README.md 
+#1749602944
+git commit -m "adding readme for readers writers"
+#1749603104
+cd readers_and_writers_readers_starvation
+#1749603109
+git main.c 
+#1749603326
+vim ../readers_and_writers_problem_no_starvation_turnstile/
+#1749603332
+vim ../readers_and_writers_problem_no_starvation_turnstile/main.c
+#1749603363
+cat ../readers_and_writers_problem_no_starvation_turnstile/main.c
+#1749603871
+vim amin.c
+#1749604355
+cat main.c
+#1749604572
+./a
+#1749604684
+git 
+#1749604689
+gut status 
+#1749604707
+git commit -m "adding final for readers and writers(readers starvation)"
+#1749605656
+../../list-logged.sh 
+#1749605872
+mkdir producer_consumer_problem
+#1749606119
+ls
+#1749606127
+vim README.md
+#1749606338
+mv README.md producer_consumer_problem
+#1749606355
+git commit -m "Starting producer consumer problem"
+#1749606360
+git push origin master
+#1749607637
+cat ../readers_and_writers_problem/readers_and_writers_problem_no_starvation_turnstile/main.c 
+#1749607852
+cp ../readers_and_writers_problem/readers_and_writers_problem_no_starvation_turnstile/Makefile . 
+#1749607906
+make
+#1749608093
+rm 23q 
+#1749608096
+cat README.md 
+#1749608113
+vim infinite_buffer_solution.py
+#1749609203
+ps 
+#1749609305
+vim infinite_buffer_solution.py 
+#1749609378
+git add . 
+#1749609393
+git commit -m "adding solutions for producer consumer problem"
+#1749609397
+git push origin master 
+#1749609412
+./list
+#1749609422
+../../list
+#1749609427
+../../../list-logged.sh 
+#1749609486
+git status 
+#1749609976
+mkdir dining_philosophers_problem
+#1749609981
+cd producer_consumer_problem/
+#1749609987
+cat if
+#1749609991
+cat infinite_buffer_solution.py 
+#1749610306
+cd ../ 
+#1749610309
+cd dining_philosophers_problem/
+#1749611679
+python3 infinite_buffer_solution.py 
+#1749612914
+vim ../producer_consumer_problem/main.c 
+#1749612930
+cat ../producer_consumer_problem/main.c 
+#1749612942
+vim vim main.c
+#1749613260
+cp ../producer_consumer_problem/Makefile . 
+#1749613261
+ls 
+#1749613481
+cat main.c 
+#1749613570
+make 
+#1749613572
+./main 
+#1749613599
+vim main.c
+#1749609981
+cd producer_consumer_problem/
+#1749609987
+cat if
+#1749609991
+cat infinite_buffer_solution.py 
+#1749610306
+cd ../ 
+#1749610309
+cd dining_philosophers_problem/
+#1749611679
+python3 infinite_buffer_solution.py 
+#1749612914
+vim ../producer_consumer_problem/main.c 
+#1749612930
+cat ../producer_consumer_problem/main.c 
+#1749612942
+vim vim main.c
+#1749613260
+cp ../producer_consumer_problem/Makefile . 
+#1749613481
+cat main.c 
+#1749613570
+make 
+#1749613572
+./main 
+#1749613599
+vim main.c
+#1749635843
+../list
+#1749635845
+./list-logged.sh 
+#1749636161
+cd students/
+#1749636162
+who
+#1749636168
+cd s0600311
+#1749636175
+cd 2017-SE-06
+#1749636179
+vim solution.sh 
+#1749636220
+cd 2023-CE-02
+#1749636225
+cd var/
+#1749636230
+cd log/
+#1749636233
+cd my_logs/
+#1749636237
+cd ../../../
+#1749636249
+cd 2023-CE-01
+#1749636250
+ls 
+#1749636253
+vim solution.sh
+#1749636261
+cd ../../
+#1749636263
+cd ../
+#1749636249
+cd 2023-CE-01
+#1749636253
+vim solution.sh
+#1749636261
+cd ../../
+#1749636263
+cd ../
+#1749655937
+./list-logged.sh 
+#1749658412
+who 
+#1749658434
+grep "Ивайло" /etc/passwd 
+#1749658452
+cd ../s0600305
+#1749658497
+cd ~!
+#1749658499
+cd ~
+#1749658509
+cd theory/
+#1749658511
+cd semaphors/
+#1749658512
+ls 

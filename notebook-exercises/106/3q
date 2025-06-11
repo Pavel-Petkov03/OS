@@ -1,0 +1,36 @@
+
+
+int asserted_read(int fd, void* buffer, ssize_t size);
+int asserted_write(int fd, const void* buffer, ssize_t size);
+
+
+int asserted_read(int fd, void* buffer, ssize_t size){
+    int bytes = read(fd, buffer, size);
+    if(bytes < 0){
+        err(1, "something went wrong in read");
+    }
+    return bytes;
+}
+
+int asserted_write(int fd, const void* buffer, ssize_t size){
+    int bytes = write(fd, buffer, size);
+    if(bytes < 0){
+        err(1, "something went wrong in read");
+    }
+    return bytes;
+}
+
+int main(int argc, char* argv[]){
+    char buffer[1024];
+    asserted_write(1, ">>>", 4);
+    int len = asserted_read(0, (char*)buffer, sizeof(buffer));
+    while(strncmp("end" , buffer) != 0){
+        pid_t pid = fork();
+        if(pid == 0){
+            execlp(buffer, buffer, (char*)NULL);
+        }
+        wait(&status);
+        asserted_write(1, ">>>", 4);
+        int len = asserted_read(0, buffer, sizeof(buffer));
+    }
+}

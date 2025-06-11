@@ -1,3 +1,5 @@
 [user]
 	email = pavel.petkov2003@gmail.com
 	name = Pavel Petkov
+[credential]
+	helper = manager-core

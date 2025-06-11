@@ -6,6 +6,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+.cache/
 
 # Libraries
 *.lib
@@ -16,6 +17,7 @@
 *.so
 *.so.*
 *.dylib
+.bash_history
 
 # Executables
 *.exe

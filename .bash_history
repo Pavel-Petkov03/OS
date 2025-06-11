@@ -12059,3 +12059,55 @@ cd theory/
 cd semaphors/
 #1749658512
 ls 
+#1749681352
+cd chat_room/
+#1749681355
+cd client/
+#1749681358
+./main mavkata
+#1749681562
+exit 
+#1749681341
+cd chat_room/
+#1749681342
+cd client/
+#1749681345
+./main pavkata
+#1749681563
+exit
+#1749681333
+cd chat_room/
+#1749681335
+cd server/
+#1749681336
+./main 
+#1749681564
+exit
+#1749681531
+cd chat_room/
+#1749681532
+cd client/
+#1749681536
+./main baba
+#1749681565
+exut 
+#1749681566
+exit 
+#1749658497
+cd ~!
+#1749658509
+cd theory/
+#1749658511
+cd semaphors/
+#1749681568
+./list-logged.sh 
+#1749681589
+cd notebook-exercises/
+#1749681596
+cd 121/
+#1749681601
+./main input.bin 
+#1749681646
+cd ~
+#1749681648
+ls 

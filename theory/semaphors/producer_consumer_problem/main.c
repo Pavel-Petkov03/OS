@@ -36,7 +36,7 @@ void* consumer(void* id){
 
 int main(void){
     srand(time(NULL));
-   	pthread_t tconsumer[5];
+    pthread_t tconsumer[5];
     pthread_t tproducer[5];
     int consumer_ids[5] = {1, 2, 3, 4, 5};
     int producer_ids[5] = {1, 2, 3, 4, 5};
@@ -57,7 +57,7 @@ int main(void){
 
     sem_destroy(&mutex);
     sem_destroy(&items);
-	sem_destroy(&max_counter);
+    sem_destroy(&max_counter);
 
     return 0;
 }

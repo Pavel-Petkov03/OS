@@ -46,16 +46,16 @@ int main(void){
         sem_init(&forks[i], 0, 1);
     }
     int threads_ids[PHILOSOPHERS_COUNT] = {1,2,3,4,5};
-	pthread_t threads[5];
-	for(int i =0; i < PHILOSOPHERS_COUNT; i++){
- 		pthread_create(&threads[i], NULL, philosopher_thread, &threads_ids[i]);
-	}
-	for(int i =0; i < PHILOSOPHERS_COUNT; i++){
-          pthread_join(threads[i], NULL);
+    pthread_t threads[5];
+    for(int i =0; i < PHILOSOPHERS_COUNT; i++){
+        pthread_create(&threads[i], NULL, philosopher_thread, &threads_ids[i]);
     }
-	sem_destroy(&multiplex);
-	for(int i = 0; i < PHILOSOPHERS_COUNT; i++){
-		sem_destroy(&forks[i]);
-	}
+    for(int i =0; i < PHILOSOPHERS_COUNT; i++){
+        pthread_join(threads[i], NULL);
+    }
+    sem_destroy(&multiplex);
+    for(int i = 0; i < PHILOSOPHERS_COUNT; i++){
+        sem_destroy(&forks[i]);
+    }
 }
 
